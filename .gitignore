@@ -1,0 +1,10 @@
+.idea/
+*.iml
+out/
+target/
+*.class
+data.ser
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
